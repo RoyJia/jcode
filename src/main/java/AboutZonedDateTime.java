@@ -67,5 +67,10 @@ public class AboutZonedDateTime {
         DateTime dateTime2 = DateTime.parse(datestr.toString(), dateTimeFormatter);
         System.out.println(dateTime2.toString());
 
+        System.out.println("--------------------------------");
+        Date testDate = null;
+        System.out.println(ZoneId.of("Australia/Melbourne"));
+        System.out.println(DateTimeZone.forID("Australia/Melbourne"));
+
     }
 }
