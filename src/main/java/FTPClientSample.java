@@ -23,6 +23,7 @@ public class FTPClientSample {
 
         } catch (Exception e) {
             log.error("ftp连接失败", e);
+            ftpClient.disconnect();
         }
     }
 }
