@@ -1,9 +1,15 @@
+import java.io.IOException;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+
 import org.apache.commons.net.ftp.FTPClient;
 import org.apache.commons.net.ftp.FTPReply;
 
 public class FTPClientSample {
 
-    public static void main(String[] args) {
+    private static final Logger LOGGER = Logger.getLogger(FTPClientSample.class.getName());
+
+    public static void main(String[] args) throws IOException {
         FTPProperties ftpProperties = new FTPProperties();
         FTPClient ftpClient = new FTPClient();
         
@@ -15,14 +21,14 @@ public class FTPClientSample {
 
             reply = ftpClient.getReplyCode();
             if(FTPReply.isPositiveCompletion(reply)) {
-                log.info("ftp connection success! host: " + ftpProperties.getHost() + ", username: " + ftpProperties.getUserName());
+                LOGGER.info("ftp connection success! host: " + ftpProperties.getHost() + ", username: " + ftpProperties.getUserName());
             } else {
-                log.error("ftp连接失败: " + ftpClient.getReplyString());
+                LOGGER.log(Level.SEVERE, "ftp连接失败: " + ftpClient.getReplyString());
                 ftpClient.disconnect();
             }
 
         } catch (Exception e) {
-            log.error("ftp连接失败", e);
+            LOGGER.log(Level.SEVERE, "ftp连接失败", e);
             ftpClient.disconnect();
         }
     }
