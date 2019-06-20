@@ -3,7 +3,7 @@
 # My first shell script
 . ../conf/hello_world.conf
 
-echo "-----------$NEXTMONTH"
+echo "-----------$NEXTMONTHWITHZSH"
 
 init_region_split_info()
 {
@@ -28,7 +28,7 @@ region_array=("100" "220" "311" "351" "471" "240" "431" "451" "210" "250" "571" 
 
 for region in ${region_array[@]}
 do
-    echo "create  'aaa:table_"$NEXTMONTH"_"$region"', {NAME => 'vlt', COMPRESSION => 'SNAPPY', VERSIONS => '1'}" >> zzz.txt
+    echo "create  'aaa:table_"$NEXTMONTHWITHZSH"_"$region"', {NAME => 'vlt', COMPRESSION => 'SNAPPY', VERSIONS => '1'}" >> zzz.txt
 done
 
 echo $0
