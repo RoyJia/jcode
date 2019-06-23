@@ -4,3 +4,6 @@
 .vscode
 target
 .DS_Store
+
+# Cici
+/shell/bin/tmp.sh

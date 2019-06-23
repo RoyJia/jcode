@@ -2,6 +2,7 @@
 
 # My first shell script
 . ../conf/hello_world.conf
+provcd="XXX"
 
 echo "-----------$NEXTMONTHWITHZSH"
 
@@ -25,11 +26,17 @@ init_region_split_info 30 region_split_info30.txt
 
 # shell array and iterator
 region_array=("100" "220" "311" "351" "471" "240" "431" "451" "210" "250" "571" "551")
-
+a=1
+b=2
 for region in ${region_array[@]}
 do
-    echo "create  'aaa:table_"$NEXTMONTHWITHZSH"_"$region"', {NAME => 'vlt', COMPRESSION => 'SNAPPY', VERSIONS => '1'}" >> zzz.txt
+    if [ $a -ne $b ];
+    then
+        echo "create  'aaa:table_"$NEXTMONTHWITHZSH"_"$region"', {NAME => 'vlt', COMPRESSION => 'SNAPPY', VERSIONS => '1'}" >> zzz.txt
+    fi
 done
 
-echo $0
-echo `basename $0`
+echo "---------------------------"
+REGINSPLITINFO10=("001|" "002|" "003|" "004|" "005|" "006|" "007|" "008|" "009|" "010|")
+
+echo "['${REGINSPLITINFO10[*]}']"
