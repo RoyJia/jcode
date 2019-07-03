@@ -1,5 +1,3 @@
-import javax.xml.validation.Validator;
-
 import org.apache.commons.lang3.Validate;
 
 public class CommonCheck {

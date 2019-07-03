@@ -40,18 +40,28 @@
 # REGINSPLITINFO10=("001|" "002|" "003|" "004|" "005|" "006|" "007|" "008|" "009|" "010|")
 
 # echo "['${REGINSPLITINFO10[*]}']"
-XXX="dafsdfasdfasdfasdfa"
+# XXX="dafsdfasdfasdfasdfa"
 
-print_log()
-{
-    echo "$(date "+%Y-%m-%d %H:%M:%S"): $1 $XXX"
-}
+# print_log()
+# {
+#     echo "$(date "+%Y-%m-%d %H:%M:%S"): $1 $XXX"
+# }
 
-date "+%d/%m/%Y" -d "09/99/2013" > /dev/null  2>&1
-if [ $? -eq 1 ];
-then
-    print_log "date is validated"
-else
-    print_log "date is not validated"
-fi
+# date "+%d/%m/%Y" -d "09/99/2013" > /dev/null  2>&1
+# if [ $? -eq 1 ];
+# then
+#     print_log "date is validated"
+# else
+#     print_log "date is not validated"
+# fi
+
+
+
+cat XXX.txt | while read LINE
+do
+    echo $LINE | egrep '[0-9]{4}VLTCG02_' > /dev/null       #输出到空设备，这样不会打印grep出来的结果，同时$?结果也能符合需要
+    if [ $? -eq 0 ]; then
+        echo "yes - $LINE"
+    fi
+done
 
