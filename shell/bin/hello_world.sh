@@ -57,11 +57,40 @@
 
 
 
-cat XXX.txt | while read LINE
-do
-    echo $LINE | egrep '[0-9]{4}VLTCG02_' > /dev/null       #输出到空设备，这样不会打印grep出来的结果，同时$?结果也能符合需要
-    if [ $? -eq 0 ]; then
-        echo "yes - $LINE"
-    fi
-done
+# cat XXX.txt | while read LINE
+# do
+#     echo $LINE | egrep '[0-9]{4}VLTCG02_' > /dev/null       #输出到空设备，这样不会打印grep出来的结果，同时$?结果也能符合需要
+#     if [ $? -eq 0 ]; then
+#         echo "yes - $LINE"
+#     fi
+# done
 
+# XXX='000'
+# msg_level=0
+# msg_level_name=(info alarm warning serious)
+
+# echo "----$msg_level"
+# echo "++++${msg_level_name[msg_level]}"
+
+# msg_level_name=(INFO ALARM WARNING SERIOUS)
+# get_text()
+# {
+#     echo `[ -z "$1" ] && echo "#" || echo $1`
+# }
+
+# # log 2
+# str1='aaa'
+# str2=''
+# if [ -z "$str1" ] || [ -z "$str2" ]; then
+#     echo "str is empty"
+# else
+#     echo $str1
+# fi
+
+# echo $(get_text)
+
+if echo "201901" | egrep "^[0-9]{4}((0[1-9]{1})|(1[0-2]{1}))$" > /dev/null 2>&1; then
+    echo "adfasdfasdfasdfasdfasdf"
+else
+  echo "请提供正确的月份参数，格式：YYYYMM";
+fi;
