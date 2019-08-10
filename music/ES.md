@@ -1,0 +1,6 @@
+- Legendary - Welshly Arms - https://youtu.be/Z2CZn966cUg
+- Fire - Barns Courtney - https://youtu.be/hLEoictM8p4
+- Glitter & Gold - Barns Courtney - https://youtu.be/IrV90gXmOpA
+- Blue Monday - New Order - https://youtu.be/FYH8DsU2WCk
+- Zombie - The Cranberries - https://youtu.be/6Ejga4kJUts
+- Everybody Hates Me - The Chainsmokers - https://youtu.be/DKPCBAlDw2A

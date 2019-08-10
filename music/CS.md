@@ -1,0 +1,3 @@
+- 風的季節 - Soler - https://youtu.be/Y7ZkO8IBsso
+- 笨小孩 - 柯受良 / 吴宗宪 / 刘德华 - https://youtu.be/tuC_Ng07iCw
+- 
