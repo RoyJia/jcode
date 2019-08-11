@@ -87,3 +87,4 @@
 - Resident Evil: Afterlife - 2010
 - Resident Evil: Retribution - 2012
 - Resident Evil: The Final Chapter - 2016
+
