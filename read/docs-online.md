@@ -1,0 +1,1 @@
+- [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
