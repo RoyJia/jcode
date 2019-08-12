@@ -88,3 +88,10 @@
 - Resident Evil: Retribution - 2012
 - Resident Evil: The Final Chapter - 2016
 
+# Spider-Man trilogy
+> Peter Parker by Tobey Maguire
+> Directed by Sam Raimi
+
+- Spider-Man - 2002
+- Spider-Man 2 - 2004
+- Spider-Man 3 - 2007

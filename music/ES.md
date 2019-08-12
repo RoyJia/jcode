@@ -8,7 +8,9 @@
 
 > Blue Monday - New Order - Power, Corruption & Lies - 1983 - https://youtu.be/FYH8DsU2WCk
 
-> Zombie - The Cranberries - Everybody Else Is Doing It, So Why Can't We? - 1993 - https://youtu.be/6Ejga4kJUts
+> The Cranberries
+- Zombie - Everybody Else Is Doing It, So Why Can't We? - 1993 - https://youtu.be/6Ejga4kJUts
+- Ode To My Family - Everybody Else Is Doing It, So Why Can't We? - 1993 - https://youtu.be/Zz-DJr1Qs54
 
 > Wisdom - The Guggenheim Grotto - The Universe Is Laughing - 2010 - https://youtu.be/F2ocnkxhuJ0
 
@@ -32,4 +34,7 @@
 
 > Caldey - Manic Street Preachers - Walk Me to the Bridge - 2014 - https://youtu.be/0jqGkSOWR74
 
+> Coldplay
+
+- Don't Panic - Parachutes - 2000 - https://youtu.be/8uxt-FnNy2I
 

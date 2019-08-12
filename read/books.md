@@ -10,12 +10,16 @@
 10. 如丧 - 高晓松 - ✔️
 11. 红墙黄瓦 - 张克群 - ✔️
 12. 第五次开始 - The Fifth Beginning - Robert L. Kelly - ✔️
-13. 图解HTTP - 上野宣 - ✔️
-14. The Rise and Fall of the British Empire - Lawrence James - ✔️
-15. The Face of Battle - John Keegan - ✔️
-16. 变量2018 - 何帆 - ✔️
-17. 夜航船 - 张岱 - ✔️
-18. 冷场 - 李诞 - ✔️
-19. The Moon and Sixpence - William Somerset Maugham - ✔️
-20. 侠隐 - 张北海 - ✔️
-21. 传统十论 - 秦晖
+13. 第七感 - The Seventh Sense: Power, Fortune, and Survival in the Age of Networks - Joshua Cooper Ramo - ✔️
+14. 图解HTTP - 上野宣 - ✔️
+15. The Rise and Fall of the British Empire - Lawrence James - ✔️
+16. The Face of Battle - John Keegan - ✔️
+17. 变量2018 - 何帆 - ✔️
+18. 夜航船 - 张岱 - ✔️
+19. 冷场 - 李诞 - ✔️
+20. The Moon and Sixpence - William Somerset Maugham - ✔️
+21. 侠隐 - 张北海 - ✔️
+22. 长安十二时辰 - 马伯庸 - ✔️️️
+23. 传统十论 - 秦晖 - ✔️️️
+24. How To English: 31 Days to be an Independent Learner - Adam David Broughton - 
+25. 丧家狗：我读《论语》 - 李零 - 
