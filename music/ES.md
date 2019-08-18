@@ -1,6 +1,8 @@
 > Sunflower - Post Malone & Swae Lee - Spider-Man: Into the Spider-Verse - 2018 - https://youtu.be/ApXoWvfEYVU
 
-> Legendary - Welshly Arms - No Place Is Home - 2018 - https://youtu.be/Z2CZn966cUg
+> Welshly Arms
+- Legendary - No Place Is Home - 2018 - https://youtu.be/Z2CZn966cUg
+- All The Way Up - No Place Is Home - 2018 - https://youtu.be/Bp2lHg83iXE
 
 > Barns Courtney
 - Fire - Burnt - 2015 - https://youtu.be/hLEoictM8p4
@@ -38,3 +40,18 @@
 
 - Don't Panic - Parachutes - 2000 - https://youtu.be/8uxt-FnNy2I
 
+> Witchcraft - Pendulum - Immersion - 2010 - https://youtu.be/ogMNV33AhCY
+
+> The Script
+
+- Hall of Fame - #3 - 2013 - https://youtu.be/mk48xRzuNvA
+
+> Space Song - Beach House - Depression Cherry - 2015 - https://youtu.be/RBtlPT23PTM
+
+> Brother Louie - Modern Talking - Ready for Romance - 1986 - https://youtu.be/Lp2qcCrdBLA
+
+> Fall Out Boy
+
+- My Songs Know What You Did In The Dark - Save Rock and Roll - 2013 - https://youtu.be/LkIWmsP3c_s
+- Centuries - American Beauty/American Psycho - 2015 - https://youtu.be/LBr7kECsjcQ
+- The Phoenix - Save Rock and Roll - 2013 - https://youtu.be/5hDZbroaQDc
