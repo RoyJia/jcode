@@ -31,8 +31,7 @@
 
 > See You Again - Wiz Khalifa - Furious 7: Original Motion Picture Soundtrack - https://youtu.be/RgKAFK5djSk
 
-> Promises - Sam Smith & Calvin Harris - Promises
- - 2018 - https://youtu.be/dTQMd2I3drE
+> Promises - Sam Smith & Calvin Harris - Promises - 2018 - https://youtu.be/dTQMd2I3drE
 
 > Caldey - Manic Street Preachers - Walk Me to the Bridge - 2014 - https://youtu.be/0jqGkSOWR74
 
