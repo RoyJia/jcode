@@ -25,3 +25,9 @@
 > Aeterna - Liquid Cinema - Aeterna: Epic Dramatic Trailers - 2014 - https://youtu.be/KxEV-m8fpno
 
 > Brotherhood - John Dreamer - Brotherhood - 2011 - https://youtu.be/MejvKklh4KI
+
+> Liberators - Epic Score - Vengeance - ES033 - 2015 - https://youtu.be/tjUpKDgM80k
+
+> Two Steps From Hell
+- Victory - Battlecry - 2015 - https://youtu.be/hKRUPYrAQoE
+- Star Sky - Battlecry - 2015 - https://youtu.be/YiiHfOAG2Hk

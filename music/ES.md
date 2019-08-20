@@ -36,13 +36,11 @@
 > Caldey - Manic Street Preachers - Walk Me to the Bridge - 2014 - https://youtu.be/0jqGkSOWR74
 
 > Coldplay
-
 - Don't Panic - Parachutes - 2000 - https://youtu.be/8uxt-FnNy2I
 
 > Witchcraft - Pendulum - Immersion - 2010 - https://youtu.be/ogMNV33AhCY
 
 > The Script
-
 - Hall of Fame - #3 - 2013 - https://youtu.be/mk48xRzuNvA
 
 > Space Song - Beach House - Depression Cherry - 2015 - https://youtu.be/RBtlPT23PTM
@@ -50,7 +48,16 @@
 > Brother Louie - Modern Talking - Ready for Romance - 1986 - https://youtu.be/Lp2qcCrdBLA
 
 > Fall Out Boy
-
 - My Songs Know What You Did In The Dark - Save Rock and Roll - 2013 - https://youtu.be/LkIWmsP3c_s
 - Centuries - American Beauty/American Psycho - 2015 - https://youtu.be/LBr7kECsjcQ
 - The Phoenix - Save Rock and Roll - 2013 - https://youtu.be/5hDZbroaQDc
+
+> Joss Stone
+- Molly Town - Water for Your Soul - 2015 - https://youtu.be/LYRtS0LDmiw
+- Harry's Symphony - Water for Your Soul - 2015 - https://youtu.be/24UA1ESzHqM
+
+> Need You Now - Lady Antebellum - Need You Now - 2010 - https://youtu.be/eM213aMKTHg
+
+> David Bowie
+- Space Oddity - David Bowie - 1969 - https://youtu.be/iYYRH4apXDo
+- Starman - The Rise and Fall of Ziggy Stardust and the Spiders from Mars - 1972 - https://youtu.be/tRcPA7Fzebw
