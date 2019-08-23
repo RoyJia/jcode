@@ -4,3 +4,18 @@
 - [What Do We Mean By Honesty in a Relationship?](https://www.huffpost.com/entry/what-do-we-mean-by-honest_b_9617860)
 
 - [High-speed inserts with Mysql](https://medium.com/@benmorel/high-speed-inserts-with-mysql-9d3dcd76f723)
+
+- [import csv file into mysql table](http://www.mysqltutorial.org/import-csv-file-mysql-table/)
+ - [locate my.cnf](https://stackoverflow.com/questions/7973927/for-homebrew-mysql-installs-wheres-my-cnf)
+
+- [Mysql Database Optimization](https://dev.mysql.com/doc/refman/5.5/en/optimization.html)
+
+- [About Upgraading Bash on macOS](https://itnext.io/upgrading-bash-on-macos-7138bd1066ba)
+
+- [MacOS Is Not a Linux Distribution](https://www.lifewire.com/mac-os-x-is-not-linux-distribution-2204744)
+
+- [Google Search Tips](https://www.androidauthority.com/google-search-tips-879151/)
+
+- [A Collection of 250+ Terminal Commands, Hacks, Tips and Tuts for Mac OS X](https://www.macstories.net/roundups/a-collection-of-250-terminal-commands-hacks-tips-and-tuts-for-mac-os-x/)
+
+- [A command tool for looking up abbreviation](https://github.com/Haixiang6123/wtf-cli)

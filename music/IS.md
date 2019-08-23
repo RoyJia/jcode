@@ -31,3 +31,5 @@
 > Two Steps From Hell
 - Victory - Battlecry - 2015 - https://youtu.be/hKRUPYrAQoE
 - Star Sky - Battlecry - 2015 - https://youtu.be/YiiHfOAG2Hk
+
+> Beautiful Lies - B-complex - Beautiful Lies VIP - 2010 - https://youtu.be/YdQhxztj8Cc
