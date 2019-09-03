@@ -1,14 +1,14 @@
 > Sunflower - Post Malone & Swae Lee - Spider-Man: Into the Spider-Verse - 2018 - https://youtu.be/ApXoWvfEYVU
 
 > Welshly Arms
-- Legendary - No Place Is Home - 2018 - https://youtu.be/Z2CZn966cUg
+- 🧡Legendary - No Place Is Home - 2018 - https://youtu.be/Z2CZn966cUg
 - All The Way Up - No Place Is Home - 2018 - https://youtu.be/Bp2lHg83iXE
 
 > Barns Courtney
-- Fire - Burnt - 2015 - https://youtu.be/hLEoictM8p4
-- Glitter & Gold - The Attractions Of Youth - 2017 - https://youtu.be/IrV90gXmOpA
+- 🧡Fire - Burnt - 2015 - https://youtu.be/hLEoictM8p4
+- 🧡Glitter & Gold - The Attractions Of Youth - 2017 - https://youtu.be/IrV90gXmOpA
 
-> Blue Monday - New Order - Power, Corruption & Lies - 1983 - https://youtu.be/FYH8DsU2WCk
+> 🧡Blue Monday - New Order - Power, Corruption & Lies - 1983 - https://youtu.be/FYH8DsU2WCk
 
 > The Cranberries
 - Zombie - Everybody Else Is Doing It, So Why Can't We? - 1993 - https://youtu.be/6Ejga4kJUts
@@ -19,7 +19,8 @@
 > Everybody Hates Me - The Chainsmokers - https://youtu.be/DKPCBAlDw2A
 
 > Imagine Dragons
-- Natural - Origins - 2018 - https://youtu.be/0I647GU3Jsc
+- 🧡Whatever It Takes - Evolve - 2017 - https://youtu.be/gOsM-DYAEhY
+- 🧡Natural - Origins - 2018 - https://youtu.be/0I647GU3Jsc
 - Believer - Evolve -  2017 - https://youtu.be/7wtfhZwyrcc
 - Demons - Night Visions - 2012 - https://youtu.be/LqI78S14Wgg
     - Boyce Avenue & Jennel Garcia - 2014 - https://youtu.be/9DLtzc9KLiw
@@ -62,4 +63,14 @@
 - Space Oddity - David Bowie - 1969 - https://youtu.be/iYYRH4apXDo
 - Starman - The Rise and Fall of Ziggy Stardust and the Spiders from Mars - 1972 - https://youtu.be/tRcPA7Fzebw
 
-> 
+> Maroon 5
+- Maps - V - 2014 - https://youtu.be/xj6fHiF8Osg
+
+> Nightwish
+- Bye Bye Beautiful - Dark Passion Play - 2007 - https://youtu.be/hTdhXxxWREo
+
+> We Are Young - Janelle Monáe - Some Nights - https://youtu.be/9g5m3z24jJM
+
+> Renegades - X Ambassadors - VHS - 2015 - https://youtu.be/8j741TUIET0
+
+> 🧡Skin - Rag'n'Bone Man - Human - 2017 - https://youtu.be/1Al-nuR1iAU - https://youtu.be/yU6gG-p5FZc

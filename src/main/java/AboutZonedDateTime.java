@@ -1,3 +1,4 @@
+import java.time.LocalDate;
 import java.time.ZoneId;
 import java.time.ZonedDateTime;
 import java.time.temporal.TemporalField;
@@ -7,6 +8,8 @@ import java.util.Date;
 import java.util.List;
 import java.util.Locale;
 import java.util.TimeZone;
+import java.text.SimpleDateFormat;
+import java.time.format.*;
 
 import org.joda.time.DateTime;
 import org.joda.time.DateTimeZone;
@@ -24,5 +27,10 @@ public class AboutZonedDateTime {
         System.out.println((monthText.length() > 3 ? monthText.substring(0, 3) : monthText) + " " + current.getYear());
 
         System.out.println(ZonedDateTime.now() + "----------------------------------------------------");
+
+        String dateMonth = "201907";
+        System.out.println(java.lang.String.format("%s年%s月", dateMonth.substring(0, 4), dateMonth.substring(4)));
+        
+        System.out.println(new java.lang.StringBuilder("201907").insert(4, "年").insert(7, "月").toString());
     }
 }

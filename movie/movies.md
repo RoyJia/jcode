@@ -1,8 +1,6 @@
 # Batman The Dark Knight Series - 蝙蝠侠
 > Directed by Christopher Nolan
-
 > Bruce Wayne by Christian Bale
-
 > Lucius Fox by Morgan Freeman
 
 - Batman Begins - 侠影之谜 - 2005
@@ -11,11 +9,8 @@
 
 # The Load of the Rings Series - 指环王（魔戒）
 > Directed by Peter Jackson
-
 > Gandalf by Ian McKellen
-
 > Galadriel by Cate Blanchett
-
 > Legolas by Orlando Bloom
 
 - The Fellowship of the Ring - 护戒使者 - 2001
@@ -31,7 +26,6 @@
 
 # The Curious Case of Benjamin Button - 返老还童 - 2008
 > Directed by David Fincher
-
 > Benjamin Button by Brad Pitt
 
 # The Secret Lift of Walter Mitty - 白日梦想家 - 2013
@@ -39,15 +33,12 @@
 
 # The Shawshank Redemption - 肖申克的救赎 - 1994
 > Directed by Frank Darabont
-
 > Andy Dufresne by Tim Robbins
-
 > Ellis Boyd by Morgan Freeman
 
 
 # Pirates of the Caribbean Series - 加勒比海盗
 > Jack Sparrow by Johnny Depp
-
 > Directed by Gore Verbinski
 - The Curse of the Black Pearl - 2003
 - Dead Man's Chest - 2006
@@ -95,3 +86,6 @@
 - Spider-Man - 2002
 - Spider-Man 2 - 2004
 - Spider-Man 3 - 2007
+
+# The Fast and the Furious Series
+> 
