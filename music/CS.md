@@ -6,3 +6,7 @@
 
 - 场上称霸 - Vinida - 2017 - https://youtu.be/XJjjy56DoTQ
 - Queendom - Vinida - 2017 - https://youtu.be/_bK_Vw5_aHI
+
+> 夜空中最亮的星 - 逃跑计划 - 世界 - 2011 - https://youtu.be/fzuy63eCUKc
+
+> 日光倾城 - 卡奇社 - 日光倾城 - 2007 - https://youtu.be/axAkJgV-AZQ

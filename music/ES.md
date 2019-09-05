@@ -38,6 +38,7 @@
 
 > Coldplay
 - Don't Panic - Parachutes - 2000 - https://youtu.be/8uxt-FnNy2I
+- Paradise - Mylo Xyloto - 2011 - https://youtu.be/1G4isv_Fylg
 
 > Witchcraft - Pendulum - Immersion - 2010 - https://youtu.be/ogMNV33AhCY
 
@@ -74,3 +75,7 @@
 > Renegades - X Ambassadors - VHS - 2015 - https://youtu.be/8j741TUIET0
 
 > 🧡Skin - Rag'n'Bone Man - Human - 2017 - https://youtu.be/1Al-nuR1iAU - https://youtu.be/yU6gG-p5FZc
+
+> OneRepublic
+- Secrets - Waking Up - 2009 - https://youtu.be/qHm9MG9xw1o
+- Apologize - Shock Value - 2007 - https://youtu.be/ZSM3w1v-A_Y
