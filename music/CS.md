@@ -10,3 +10,7 @@
 > 夜空中最亮的星 - 逃跑计划 - 世界 - 2011 - https://youtu.be/fzuy63eCUKc
 
 > 日光倾城 - 卡奇社 - 日光倾城 - 2007 - https://youtu.be/axAkJgV-AZQ
+
+> 独角戏 - 许茹芸 - 如果云知道 - 1996 - https://youtu.be/HjVG6SIwLuY
+
+> 嘿! 姑娘 - 反光镜 - 释你 - 2016 - https://youtu.be/PjmxcIgfDO8

@@ -79,3 +79,5 @@
 > OneRepublic
 - Secrets - Waking Up - 2009 - https://youtu.be/qHm9MG9xw1o
 - Apologize - Shock Value - 2007 - https://youtu.be/ZSM3w1v-A_Y
+
+> Wake Me Up When September Ends - Green Day - American Idiot - 2004 - https://youtu.be/rdpBZ5_b48g
