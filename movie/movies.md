@@ -88,4 +88,12 @@
 - Spider-Man 3 - 2007
 
 # The Fast and the Furious Series
-> 
+
+
+# The Matrix Series
+> Neo by Keanu Reeves
+> Directed by Lana Wachowski, Lilly Wachowski
+
+- The Matrix - 1999
+- The Matrix Revolutions - 2003
+- The Matrix Reloaded - 2003

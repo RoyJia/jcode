@@ -21,6 +21,7 @@
 > Imagine Dragons
 - 🧡Whatever It Takes - Evolve - 2017 - https://youtu.be/gOsM-DYAEhY
 - 🧡Natural - Origins - 2018 - https://youtu.be/0I647GU3Jsc
+- Thunder - Evolve - 2017 - https://youtu.be/fKopy74weus
 - Believer - Evolve -  2017 - https://youtu.be/7wtfhZwyrcc
 - Demons - Night Visions - 2012 - https://youtu.be/LqI78S14Wgg
     - Boyce Avenue & Jennel Garcia - 2014 - https://youtu.be/9DLtzc9KLiw

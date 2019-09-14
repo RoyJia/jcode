@@ -1,4 +1,4 @@
-> 風的季節 - Soler - Canto - 2009 - https://youtu.be/Y7ZkO8IBsso
+> 🧡風的季節 - Soler - Canto - 2009 - https://youtu.be/Y7ZkO8IBsso
 
 > 笨小孩 - 柯受良 / 吴宗宪 / 刘德华 - Andy Lau Vision Tour 2004 - 2004 - https://youtu.be/tuC_Ng07iCw
 
@@ -14,3 +14,18 @@
 > 独角戏 - 许茹芸 - 如果云知道 - 1996 - https://youtu.be/HjVG6SIwLuY
 
 > 嘿! 姑娘 - 反光镜 - 释你 - 2016 - https://youtu.be/PjmxcIgfDO8
+
+> 追光者 - 岑宁儿 - 2017 - https://youtu.be/vWWNmRFf7vY
+
+> 痛仰乐队
+- 再见杰克 - 2008 - https://youtu.be/yC3S9tcx4JU
+- 公路之歌 - 2008 - https://youtu.be/VsyYXfh22gE
+
+> 宋冬野
+- 🧡安和桥 - 安和桥北 - https://youtu.be/cr-I94YpUo4
+- 🧡斑馬，斑馬 - 安和桥北 - https://youtu.be/Hv5j-FpF1yg
+
+> 白日梦蓝 - 刺猬乐队 - 2009 - https://youtu.be/SD6yC-bgwws
+
+> 周华健
+- 难念的经 - 1996 - https://youtu.be/jqgPDp2-0PE
