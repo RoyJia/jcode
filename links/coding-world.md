@@ -27,3 +27,7 @@
 - [zju](http://mirrors.zju.edu.cn/)
 - [tuna.tsinghua](https://mirrors.tuna.tsinghua.edu.cn/)
 - [cqu](http://mirrors.cqu.edu.cn/)
+
+# Data Science
+
+- [Six ways to use Data Science to drive your cross-sell and upsell activity](https://www.ibm.com/blogs/nordic-msp/six-ways-use-data-science-drive-cross-sell-upsell-activity/- [Optimizing Marketing with AI : An application to Cross Selling](https://medium.com/@datalabnacarat/optimizing-marketing-with-ai-an-application-to-cross-selling-ad48d5209a2b))
