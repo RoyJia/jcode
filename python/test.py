@@ -1,22 +1,8 @@
-import re
+import datetime
 
-# def test_fun(aaa=False):
-#     print(aaa)
-#     if aaa:
-#         print("aaa has value")
-#     else:
-#         print("aaa does not have value")
+now = datetime.datetime.now()
 
+then =  now - datetime.timedelta(days=90)
 
-# test_fun()
+print(f"now: {now.timestamp()} | then: {then.timestamp()}")
 
-# test_fun(aaa="I'm a string")
-
-# aaa = False
-
-# bbb = False
-
-# if not bbb and aaa:
-#     print("sdfasdfasdfasdf")
-
-AAA = def

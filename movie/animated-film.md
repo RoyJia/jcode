@@ -1,3 +1,15 @@
+# 罗小黑战记(The Legend of Hei) - 木头 - 2019-09-07
+
+# 哪吒之魔童降世(Ne Zha) - 饺子 - 2019-07-26
+
+# 白蛇: 缘起(White Snake) - 黄家康 / 赵霁 - 2019-01-11
+
+# 大护法 - 不思凡 - 2017-07-13
+
+# 大鱼海棠 - 梁旋 / 张春 - 2016-07-08
+
+# 西游记之大圣归来(Monkey King: Hero is Back) - 田晓鹏 -  2015-07-10
+
 # Hayao Miyazaki - 宫崎骏
 
 - Nausicaä of the Valley of the Wind - 风之谷 - 1984

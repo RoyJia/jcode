@@ -35,5 +35,10 @@ driver.close()
 
 #########################################################################################################
 # convert png to jpg and point size
-Image.open("homepage_after_height.png").convert('RGB').save('homepage_after_height.jpg')
-os.remove("homepage_after_height.png")
+try:
+    image = Image.open("homepage_after_heightssss.png")
+except FileNotFoundError:
+    print(f"file homepage_after_heightssss.png is not exist")
+else:
+    image.convert('RGB').save('homepage_after_height.jpg')
+    os.remove("homepage_after_height.png")
