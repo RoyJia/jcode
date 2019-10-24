@@ -24,6 +24,7 @@
 > 宋冬野
 - 🧡安和桥 - 安和桥北 - https://youtu.be/cr-I94YpUo4
 - 🧡斑馬，斑馬 - 安和桥北 - https://youtu.be/Hv5j-FpF1yg
+- 郭源潮 - 郭源潮 - 2018 - https://youtu.be/-rmc7DDyB_Q
 
 > 白日梦蓝 - 刺猬乐队 - 2009 - https://youtu.be/SD6yC-bgwws
 

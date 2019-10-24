@@ -17,12 +17,16 @@ driver = webdriver.Chrome(executable_path=chromedriver, options=opts)
 
 driver.get("http://www.expedia.com")
 
-aaaaapng = os.path.abspath(os.path.join(os.path.dirname(__file__), "temp_imgs/aaaaa.png"))
-driver.save_screenshot(aaaaapng)
+full_page_snapshot = os.path.abspath(os.path.join(os.path.dirname(__file__), "temp_imgs/full_page.png"))
+driver.save_screenshot(full_page_snapshot)
 
 
 # get snapshot for wizard
-element = driver.find_element_by_xpath("//section[@id='WizardHero']");
+elements = driver.find_elements_by_xpath('//section[@id="WizardHero"]');
+# elements = driver.find_elements_by_xpath('//div[@id="new-homepage-search-wizard"]');
+if len(elements) == 0:
+    print("I think the element has not been found")
+element = elements[0]
 location = element.location;
 size = element.size;
 
@@ -36,12 +40,12 @@ print(element.rect)
 
 size = 1200, 800
 
-im = Image.open(aaaaapng)
+im = Image.open(full_page_snapshot)
 im.thumbnail(size)
 print(f"im size: {im.size}")
 im = im.crop((int(x), int(y), int(width), int(height)))
-wizardpng = os.path.abspath(os.path.join(os.path.dirname(__file__), "temp_imgs/wizard.png"))
-im.save(wizardpng)
+wizard_png = os.path.abspath(os.path.join(os.path.dirname(__file__), "temp_imgs/wizard.png"))
+im.save(wizard_png)
 
 
-driver.quit()
+driver.close()
