@@ -21,14 +21,13 @@ with open(episodes_csv, 'r') as read_file:
 # open url http://www.bbc.co.uk/learningenglish/english/features/the-english-we-speak
 driver.get("http://www.bbc.co.uk/learningenglish/english/features/the-english-we-speak")
 
-# get the element list of "#bbcle-content  ul.threecol > li"
-episode_ele = driver.find_element_by_css_selector("#bbcle-content  ul.threecol > li")
+# get the latest episode element"
+episode_ele = driver.find_element_by_css_selector("div#bbcle-content div.widget-bbcle-coursecontentlist div.text h2 a")
 
-# move action to a tag which is within li and click
-click_button = episode_ele.find_element_by_tag_name('a')
-if click_button:
+# get episode page
+if episode_ele:
     actions = ActionChains(driver)
-    actions.move_to_element(click_button).click().perform()
+    actions.move_to_element(episode_ele).click().perform()
 
 
 # validate we are episode page now

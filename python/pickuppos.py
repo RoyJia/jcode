@@ -24,19 +24,19 @@ with open(allcsv, newline='') as f:
     for row in reader:
         rows[f"{row[2]}-{row[1]}"] = {"siteid": row[0], "eapid": row[1], "tpid": row[2], "domain": row[3], "locale": row[4], "brand": row[9]}
 
-aaa = []
+pos_info_list = []
 for val in result:
     key = f"{val['tpid']}-{val['eapid']}"
     if key in rows.keys():
         locale = rows[key]['locale']
         if 'locale' in val.keys():
             locale = val['locale']
-        aaa.append((rows[key]['brand'], rows[key]['domain'], rows[key]['siteid'], locale, val['value']))
+        pos_info_list.append((rows[key]['brand'], rows[key]['domain'], rows[key]['siteid'], locale, val['value']))
         
 def takeThird(ele):
     return int(ele[2])
 
-aaa.sort(key=takeThird)
+pos_info_list.sort(key=takeThird)
 
-for i, val in enumerate(aaa):
+for i, val in enumerate(pos_info_list):
     print((i+1, val[0], val[1], int(val[2]), val[3], val[4]))
