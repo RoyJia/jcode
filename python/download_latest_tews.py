@@ -69,4 +69,4 @@ else:
     print(f"{str(episode_info)} is existed already")
 
 
-driver.close()
+driver.quit()
