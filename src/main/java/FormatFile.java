@@ -1,4 +1,5 @@
 import java.io.BufferedReader;
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
@@ -7,6 +8,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+import org.apache.commons.io.input.ReversedLinesFileReader;
+
 public class FormatFile {
 
     public static void main(String[] args) {
@@ -14,6 +17,10 @@ public class FormatFile {
         List<List<String>> result = getDataFromFile(path);
 
         System.out.println(result.toString());
+
+        File file = new File(path);
+        String lastLine = readLastLine(file);
+        System.out.println("lastLine: " + lastLine);
     }
 
     public static List<List<String>> getDataFromFile(String path) {
@@ -50,5 +57,29 @@ public class FormatFile {
         }
 
         return result;
+    }
+
+    /**
+     * Java read the last line from file
+     * @param file
+     * @return
+     */
+    public static String readLastLine(File file){
+        ReversedLinesFileReader rLinesFileReader = null;
+        
+        try {
+            rLinesFileReader = new ReversedLinesFileReader(file);
+            return rLinesFileReader.readLine();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }finally{
+            try {
+                rLinesFileReader.close();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
+
+        return null;
     }
 }
