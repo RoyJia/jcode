@@ -8,42 +8,55 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.HashMap;
 import java.util.List;
-import java.util.Scanner;
-import java.util.Spliterator;
-import java.util.Spliterators;
-import java.util.function.Consumer;
-import java.util.regex.MatchResult;
-import java.util.regex.Pattern;
+import java.util.Map;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
-import java.util.stream.StreamSupport;
 
 import org.apache.commons.io.input.ReversedLinesFileReader;
 
 
 public class FormatFile {
 
-    private static String path;
+    public static final int LIMIT = 10000;
+    public static final String FILE_PATH = "/Users/rjia/gitRepos/jcode/src/main/java/resources/data.txt";
 
 	public static void main(String[] args) throws IOException {
-        String path = "/Users/rjia/gitRepos/jcode/src/main/java/resources/data.txt";
 
         // Read the line 3 from file
-        System.out.println("line 3 is: " + getSpecificLine(path, 3));
+        System.out.println("line 3 is: " + getSpecificLine(FILE_PATH, 3));
         System.out.println("-------------------------------------------------------");
 
         // Read 10 lines start at 10
-        getSpecificLines(path, 10, 10).forEach(System.out::println);
+        getSpecificLines(FILE_PATH, 10, LIMIT).forEach(System.out::println);
         System.out.println("-------------------------------------------------------");
 
         // Get data from file
-        getDataFromFile(path).forEach(System.out::println);
+        getDataFromFile(FILE_PATH).forEach(System.out::println);
         System.out.println("-------------------------------------------------------");
 
-        File file = new File(path);
+        File file = new File(FILE_PATH);
         String lastLine = readLastLine(file);
         System.out.println("lastLine: " + lastLine);
+    }
+
+    public static Map<String, Object> getData(int startLine) {
+        Map<String, Object> result = new HashMap<String, Object>();
+        boolean isReadingFinished = false;
+        List<List<String>> data = getSpecificLines(FILE_PATH, 10, LIMIT);
+        if (startLine == 1) {
+            data.remove(0);
+        }
+
+        if (data.size() < LIMIT) {
+            isReadingFinished = true;
+        }
+
+        result.put("data", data);
+        result.put("isReadingFinished", isReadingFinished);
+
+        return result;
     }
 
     /**
@@ -54,7 +67,6 @@ public class FormatFile {
      * @return
      */
     public static String getSpecificLine(String path, int lineIndex) {
-        FormatFile.path = path;
 		try {
             return Files.readAllLines(Paths.get(path)).get(lineIndex);
         } catch (IOException e) {
