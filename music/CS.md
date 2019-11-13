@@ -19,7 +19,7 @@
 
 > 痛仰乐队
 - 再见杰克 - 2008 - https://youtu.be/yC3S9tcx4JU
-- 公路之歌 - 2008 - https://youtu.be/VsyYXfh22gE
+- 🧡公路之歌 - 2008 - https://youtu.be/VsyYXfh22gE
 
 > 宋冬野
 - 🧡安和桥 - 安和桥北 - https://youtu.be/cr-I94YpUo4

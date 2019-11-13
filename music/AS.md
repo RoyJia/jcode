@@ -39,3 +39,4 @@
 
 > 地球仪 - Yumi Matsuzawa - 2007 - https://youtu.be/aaste1ahl6Y
 
+> Chizu ga Nakutemo Modoru kara - Makoto Furukawa - One Punch Man Senson 2 - https://youtu.be/lDIjx7ONZqw

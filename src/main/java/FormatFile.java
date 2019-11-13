@@ -70,7 +70,7 @@ public class FormatFile {
             List<String> allLines =  Files.readAllLines(Paths.get(path));
             
             String firstLine = allLines.get(0);
-            if (!firstLine.matches("^(10)\\|(\\d+)\\|([0-9]{4})(0[1-9]|1[0-2])(0[1-9]|[1-2][0-9]|3[0-1])(2[0-3]|[01][0-9])([0-5][0-9])([0-5][0-9])$")) {
+            if (!firstLine.matches("^(10)\\|(\\d+)\\|((([0-9]{4})(0[1-9]|1[0-2]))|(([0-9]{4})(0[1-9]|1[0-2])(0[1-9]|[1-2][0-9]|3[0-1]))|(([0-9]{4})(0[1-9]|1[0-2])(0[1-9]|[1-2][0-9]|3[0-1])(2[0-3]|[01][0-9])([0-5][0-9])([0-5][0-9])))$")) {
                 throw new RuntimeException("文件第一行不符合条件!" + firstLine);
             }
 
@@ -112,7 +112,6 @@ public class FormatFile {
         if (isReadingFinished) {
             data.remove(data.size() - 1);
         }
-
 
         result.put("data", data);
         result.put("isReadingFinished", isReadingFinished);
