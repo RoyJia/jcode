@@ -12,3 +12,6 @@ target
 
 /python/ignorebutusing
 /python/temp_imgs
+
+# js
+node_modules
