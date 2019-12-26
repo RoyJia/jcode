@@ -30,3 +30,9 @@
 
 > 周华健
 - 难念的经 - 1996 - https://youtu.be/jqgPDp2-0PE
+
+> 罗大佑
+- 你的样子 - 1988 - 爱人同志 - https://youtu.be/4A9f54sILHk
+- 鹿港小镇个 - 
+
+> 你的样子 - 林志炫 - 一个人的样子 - 1995 - https://youtu.be/jFD1YU9aRc4

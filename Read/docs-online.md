@@ -19,3 +19,5 @@
 - [A Collection of 250+ Terminal Commands, Hacks, Tips and Tuts for Mac OS X](https://www.macstories.net/roundups/a-collection-of-250-terminal-commands-hacks-tips-and-tuts-for-mac-os-x/)
 
 - [A command tool for looking up abbreviation](https://github.com/Haixiang6123/wtf-cli)
+
+- [jar command introduction](https://segmentfault.com/a/1190000012019605)

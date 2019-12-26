@@ -17,7 +17,7 @@
 - The Two Towers - 双塔奇兵 - 2002
 - The Return of the King - 王者归来 - 2003
 
-# The Hobbit Series
+# The Hobbit Series - 霍比特人
 > Directed by Peter Jackson
 
 - An Unexpected Journey - 意外之旅 - 2012
@@ -79,7 +79,7 @@
 - Resident Evil: Retribution - 2012
 - Resident Evil: The Final Chapter - 2016
 
-# Spider-Man trilogy
+# Spider-Man trilogy - 蜘蛛侠
 > Peter Parker by Tobey Maguire
 > Directed by Sam Raimi
 
@@ -90,7 +90,7 @@
 # The Fast and the Furious Series
 
 
-# The Matrix Series
+# The Matrix Series - 黑客帝国
 > Neo by Keanu Reeves
 > Directed by Lana Wachowski, Lilly Wachowski
 
