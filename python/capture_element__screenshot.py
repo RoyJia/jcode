@@ -27,13 +27,13 @@ elements = driver.find_elements_by_xpath('//section[@id="WizardHero"]');
 if len(elements) == 0:
     print("I think the element has not been found")
 element = elements[0]
-location = element.location;
-size = element.size;
+location = element.location
+size = element.size
 
-x = location['x'];
-y = location['y'];
-width = location['x']+size['width'];
-height = location['y']+size['height'];
+x = location['x']
+y = location['y']
+width = location['x']+size['width']
+height = location['y']+size['height']
 
 print(f"x: {x}, y: {y}, width: {width}, height: {height}")
 print(element.rect)
