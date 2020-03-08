@@ -1,2 +1,0 @@
-chromedriver:linux:75.0.3770.140
-chromedriver:mac:2.38
