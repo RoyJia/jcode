@@ -41,5 +41,4 @@ public class OddEvenRunnable implements Runnable {
         thread1.start();
         thread2.start();
     }
-
 }

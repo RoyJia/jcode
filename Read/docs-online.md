@@ -24,11 +24,16 @@
 
 - [jar command introduction](https://segmentfault.com/a/1190000012019605)
 
+- [vim cheat sheet](https://vim.rtorr.com/)
+
+- [respectful constructive code review feedback](https://www.michaelagreiler.com/respectful-constructive-code-review-feedback/)
+
 ## Command line Tutorial
 
 https://www.learnenough.com/command-line-tutorial/basics
 https://bit.ly/2srCscc
 http://try.github.io/
+https://missing.csail.mit.edu/
 
 ## Books for reading
 
