@@ -9,8 +9,6 @@ public class OddEvenPrintMain {
     public void printOdd() {
         synchronized (this) {
             while (count < MAX) {
-                System.out.println("checking odd loop");
-
                 while (!odd) {
                     try {
                         System.out.println("Odd waiting: " + count);
@@ -21,7 +19,7 @@ public class OddEvenPrintMain {
                     }
                 }
 
-                System.out.println("Odd Thread: " + count);
+                System.out.println(Thread.currentThread().getName() + ": " + count);
                 count++;
                 odd = false;
                 notify();
@@ -38,7 +36,6 @@ public class OddEvenPrintMain {
 
         synchronized (this) {
             while (count < MAX) {
-                System.out.println("checking even loop");
                 while (odd) {
                     try {
                         System.out.println("Even waiting: " + count);
@@ -49,7 +46,7 @@ public class OddEvenPrintMain {
                     }
                 }
 
-                System.out.println("Even Thread: " + count);
+                System.out.println(Thread.currentThread().getName() + ": " + count);
                 count++;
                 odd = true;
                 notify();
@@ -61,28 +58,28 @@ public class OddEvenPrintMain {
         OddEvenPrintMain printOddEvenNumbers = new OddEvenPrintMain();
         printOddEvenNumbers.odd = true;
 
-        Thread thread1 = new Thread(new Runnable(){
+        Thread eThread = new Thread(new Runnable(){
         
             @Override
             public void run() {
                 printOddEvenNumbers.printEven();
             }
-        });
+        }, "Even");
 
-        Thread thread2 = new Thread(new Runnable(){
+        Thread oThread = new Thread(new Runnable(){
         
             @Override
             public void run() {
                 printOddEvenNumbers.printOdd();
             }
-        });
+        }, "Odd");
 
-        thread1.start();
-        thread2.start();
+        eThread.start();
+        oThread.start();
 
         try {
-            thread1.join();
-            thread2.join();
+            eThread.join();
+            oThread.join();
         } catch (Exception e) {
             e.printStackTrace();
         }
