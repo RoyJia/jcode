@@ -1,8 +1,5 @@
 package commen_check;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class MaximumSubarray {
 
     public static void main(String[] args) {
