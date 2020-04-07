@@ -1,4 +1,4 @@
-package commen_check;
+package common_check;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -8,14 +8,18 @@ public class RotateMatrix90 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        int n = input.nextInt();
-
-        List<List<Integer>> matrix = createMatrix(n);
-
-        List<List<Integer>> rotatedMatrix = rotateMatrix(matrix);
-
-        printMatrix(matrix);
-        printMatrix(rotatedMatrix);
+        try {
+            int n = input.nextInt();
+    
+            List<List<Integer>> matrix = createMatrix(n);
+    
+            List<List<Integer>> rotatedMatrix = rotateMatrix(matrix);
+    
+            printMatrix(matrix);
+            printMatrix(rotatedMatrix);
+        } finally {
+            input.close();
+        }
     }
 
     static List<List<Integer>> rotateMatrix(List<List<Integer>> matrix) {
@@ -59,5 +63,4 @@ public class RotateMatrix90 {
 
         return result;
     }
-
 }

@@ -1,4 +1,4 @@
-package commen_check;
+package common_check;
 
 import java.util.Arrays;
 

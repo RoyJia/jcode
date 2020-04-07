@@ -1,4 +1,4 @@
-package commen_check;
+package common_check;
 
 import java.util.Scanner;
 
@@ -6,14 +6,19 @@ public class RotateMatrix {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        try {
+            int n = scanner.nextInt();
 
-        int n = scanner.nextInt();
+            int[][] matrix = createMatrix(n);
+            printMatrix(matrix);
 
-        int[][] matrix = createMatrix(n);
-        printMatrix(matrix);
-
-        roateMatrix(matrix);
-        printMatrix(matrix);
+            roateMatrix(matrix);
+            printMatrix(matrix);
+        } catch (Exception e) {
+            e.printStackTrace();
+        } finally {
+            scanner.close();
+        }
     }
 
     static void roateMatrix(int[][] mat) {
