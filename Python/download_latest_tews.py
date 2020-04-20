@@ -9,7 +9,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 
 opts = Options()
 chromedriver = os.path.abspath(os.path.join(os.path.dirname(__file__), "resources/chromedriver/mac/chromedriver"))
-opts.add_argument('--headless')
+# opts.add_argument('--headless')
 
 driver = webdriver.Chrome(executable_path=chromedriver, options=opts)
 
@@ -45,7 +45,8 @@ if episode_info not in reader:
     audio_download_btn = driver.find_element_by_css_selector('a.bbcle-download-extension-mp3')
     if audio_download_btn:
         audio_url = audio_download_btn.get_attribute('href')
-        wget.download(audio_url, f"/Users/rjia/Documents/bbc/the_english_we_speak/{episode_id}_{episode_name}.mp3")
+        mp3_folder = f"/Users/rjia/Documents/bbc/the_english_we_speak/{episode_id}_{episode_name}.mp3"
+        wget.download(audio_url, mp3_folder)
 
     # pdf download button ".bbcle-download-linkparent-extension-pdf"
     pdf_download_btn = driver.find_element_by_css_selector('a.bbcle-download-extension-pdf')

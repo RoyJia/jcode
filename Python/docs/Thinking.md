@@ -21,5 +21,5 @@ As my design, for sub table mobile_app_task, there are not fields like created_a
 > Key Learn
 
 1. When we are facing an issue, we should focus on exception logs firstly, and figure out that what exactly we are facing. Most time, we'll get resolution by this step.
-2. When we do research by Google, must be careful the result, it is not match out problem everytime, other wist you'll spend lots of time on unrelated things.
+2. When we do research by Google, must be careful the result, it is not match out problem everytime, otherwise you'll spend lots of time on unrelated things.
 3. If I cannot solve the issue by the above 2 steps, I should ask help to some people who is more higher level and more experenced.
