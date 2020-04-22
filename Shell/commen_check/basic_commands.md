@@ -10,3 +10,7 @@
 
 `paste 1.txt 2.txt > 3.txt`
 `paste -d" " 1.txt 2.txt > 3.txt`
+
+> To check file, if exist then remove
+
+`[ -f file.txt ] && rm file.txt`

@@ -40,7 +40,7 @@ Memory management system of JVM, it is used to store Class info, instance info, 
 
 #### Class(Method) Area
 
-ClassLoader loads the `.class` files and save bytecode in the Class(Method) area. This 
+ClassLoader loads the `.class` files and save bytecode in the Class(Method) area.
 
 #### Heap
 
