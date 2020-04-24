@@ -89,8 +89,15 @@
 
 # echo $(get_text)
 
-if echo "201901" | egrep "^[0-9]{4}((0[1-9]{1})|(1[0-2]{1}))$" > /dev/null 2>&1; then
-    echo "adfasdfasdfasdfasdfasdf"
-else
-  echo "请提供正确的月份参数，格式：YYYYMM";
-fi;
+# if echo "201901" | egrep "^[0-9]{4}((0[1-9]{1})|(1[0-2]{1}))$" > /dev/null 2>&1; then
+#     echo "adfasdfasdfasdfasdfasdf"
+# else
+#   echo "请提供正确的月份参数，格式：YYYYMM";
+# fi;
+
+
+aaa="aa,bb,cc"
+pattern="|"
+result=${aaa//,/$pattern}
+
+echo $result
