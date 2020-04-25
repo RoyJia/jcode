@@ -42,3 +42,18 @@ do
     echo "Account $accountId has productId $ProductId and product $Product"
 done
 ```
+
+> To add prefix to each line of file
+
+```bash
+sed -i -e 's/^/prefix/' output.txt
+```
+
+if we want to use a variable as prefix
+
+```bash
+var="Hello-"
+sed -i -e "s/^/$var/" output.txt
+```
+
+- [Add prefix and suffix to every line in a .txt file](https://unix.stackexchange.com/questions/434611/add-prefix-and-suffix-to-every-line-in-a-txt-file)

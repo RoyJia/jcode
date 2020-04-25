@@ -96,8 +96,6 @@
 # fi;
 
 
-aaa="aa,bb,cc"
-pattern="|"
-result=${aaa//,/$pattern}
+bbb="/home/user/"
 
-echo $result
+sed -e "s/^/$bbb/" aaa.txt > bbb.txt    
