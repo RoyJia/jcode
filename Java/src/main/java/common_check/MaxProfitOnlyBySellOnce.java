@@ -1,8 +1,5 @@
 package common_check;
 
-import java.util.HashMap;
-import java.util.Map;
-
 public class MaxProfitOnlyBySellOnce {
 
     public static void main(String[] args) {
