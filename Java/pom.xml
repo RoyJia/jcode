@@ -4,9 +4,11 @@
                       http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
  
-  <groupId>com.jjuina.jcode</groupId>
-  <artifactId>jcode</artifactId>
-  <version>1.0</version>
+  <groupId>com.jjuina</groupId>
+  <artifactId>Java</artifactId>
+  <version>1.0-SNAPSHOT</version>
+
+  <name>jjuina-java</name>
 
   <dependencies>
     <dependency>
@@ -15,11 +17,11 @@
         <version>2.10.1</version>
     </dependency>
 
-    <dependency>
-      <groupId>commons-net</groupId>
-      <artifactId>commons-net</artifactId>
-      <version>3.6</version>
-    </dependency>
+<!--    <dependency>-->
+<!--      <groupId>commons-net</groupId>-->
+<!--      <artifactId>commons-net</artifactId>-->
+<!--      <version>3.6</version>-->
+<!--    </dependency>-->
 
     <dependency>
       <groupId>org.apache.commons</groupId>
