@@ -2,6 +2,8 @@ package common_check;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 public class Palindromic {
     public static void main(String[] args) {
@@ -48,5 +50,29 @@ public class Palindromic {
         }
 
         return true;
+    }
+
+    static boolean validPalindromicStringWithStream(String str) {
+        List<Character> list = str.chars().filter(Character::isLetterOrDigit).mapToObj(e -> (char)e).collect(Collectors.toList());
+
+        for (int i=0; i<list.size()/2; i++) {
+            if (Character.toLowerCase(list.get(i)) != Character.toLowerCase(list.get(list.size() - 1 - i))) {
+                return false;
+            }
+        }
+
+        return true;
+    }
+
+
+}
+
+class SingleLinkedNode {
+    int value;
+    SingleLinkedNode next;
+
+    public SingleLinkedNode(int value, SingleLinkedNode next) {
+        this.value = value;
+        this.next = next;
     }
 }
