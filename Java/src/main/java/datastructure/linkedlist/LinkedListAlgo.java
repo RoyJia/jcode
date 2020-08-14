@@ -1,4 +1,4 @@
-package linkedlist;
+package datastructure.linkedlist;
 
 public class LinkedListAlgo {
 

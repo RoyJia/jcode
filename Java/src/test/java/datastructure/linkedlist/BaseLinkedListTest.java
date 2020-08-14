@@ -1,6 +1,7 @@
-package linkedlist;
+package datastructure.linkedlist;
 
 
+import datastructure.linkedlist.BaseLinkedList;
 import org.junit.jupiter.api.Test;
 
 import java.util.LinkedList;
