@@ -33,7 +33,14 @@ public class CommonCheck {
     }
 
     public static void main(String[] args) {
-        System.out.println(LocalDateTime.now().minusDays(29).toLocalDate().atStartOfDay());
+        Integer aaa = 0;
+        addInt(aaa);
+        System.out.println(aaa);
+        Timestamp timestamp = new Timestamp(1606904438076L);
+        System.out.println(timestamp.getTime());
+
+
+        System.out.println((System.currentTimeMillis() - timestamp.getTime()) < 3 * 24 * 60 * 60 * 1000L);
 
         List<Integer> newList = null;
         if (newList.isEmpty()) {
@@ -78,5 +85,9 @@ public class CommonCheck {
 
     public void doSomething() throws Exception {
         throw new Exception("adfadfadfadfa");
+    }
+
+    public static void addInt(int type) {
+        type = 2;
     }
 }
