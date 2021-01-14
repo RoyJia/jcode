@@ -33,9 +33,6 @@ public class CommonCheck {
     }
 
     public static void main(String[] args) {
-        Integer aaa = 0;
-        addInt(aaa);
-        System.out.println(aaa);
         Timestamp timestamp = new Timestamp(1606904438076L);
         System.out.println(timestamp.getTime());
 
