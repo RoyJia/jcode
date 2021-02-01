@@ -7,7 +7,7 @@ import java.util.Map;
 /**
  * leetcode 1 Two sum, given an array of integers, return indices of two numbers such that they add up to a specific target
  */
-public class TwoSum {
+public class LC1TwoSum {
 
     public static void main(String[] args) {
         int[] nums = new int[]{2, 7, 11, 5};

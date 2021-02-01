@@ -1,12 +1,14 @@
 package leetcode;
 
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Map;
+import java.util.Set;
 
 /**
  * leetcode 3 Longest Substring Without Repeating Characters
  */
-public class LongestSubString {
+public class LC3LengthOfLongestSubString {
 
     public static void main(String[] args) {
         String str = "abccde";
@@ -97,5 +99,30 @@ public class LongestSubString {
         }
 
         return maxLength;
+    }
+
+    /**
+     * 滑动窗口算法, i 相当于 left, k 相当于 right
+     * @param s
+     * @return The length of longest substring
+     */
+    public static int windowMethod(String s) {
+        int n = s.length();
+        int k = 0, max = 0;
+        Set<Character> set = new HashSet<>();
+
+        for (int i = 0; i < n; i++) {
+            if (i != 0) {
+                set.remove(s.charAt(i - 1));
+            }
+
+            while (k < n && !set.contains(s.charAt(k))) {
+                set.add(s.charAt(k));
+                k++;
+            }
+            max = Math.max(max, set.size());
+        }
+
+        return max;
     }
 }
