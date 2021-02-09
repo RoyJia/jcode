@@ -35,7 +35,7 @@ public class CommonCheck {
     }
 
     public static void main(String[] args) {
-        System.out.println(BigDecimal.valueOf(0).divide(BigDecimal.valueOf(120), 2, RoundingMode.CEILING).multiply(BigDecimal.valueOf(100)).intValue());
+
     }
 
     public void doSomething() throws Exception {

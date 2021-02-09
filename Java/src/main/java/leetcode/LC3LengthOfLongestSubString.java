@@ -102,23 +102,23 @@ public class LC3LengthOfLongestSubString {
     }
 
     /**
-     * 滑动窗口算法, i 相当于 left, k 相当于 right
+     * 滑动窗口算法, 通过左右两个游标的移动获得字符串的最大长度
      * @param s
      * @return The length of longest substring
      */
-    public static int windowMethod(String s) {
+    public static int movingWindowMethod(String s) {
         int n = s.length();
-        int k = 0, max = 0;
+        int right = 0, max = 0;
         Set<Character> set = new HashSet<>();
 
-        for (int i = 0; i < n; i++) {
-            if (i != 0) {
-                set.remove(s.charAt(i - 1));
+        for (int left = 0; left < n; left++) {
+            if (left != 0) {
+                set.remove(s.charAt(left - 1));
             }
 
-            while (k < n && !set.contains(s.charAt(k))) {
-                set.add(s.charAt(k));
-                k++;
+            while (right < n && !set.contains(s.charAt(right))) {
+                set.add(s.charAt(right));
+                right++;
             }
             max = Math.max(max, set.size());
         }
